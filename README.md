@@ -2,6 +2,6 @@
 
 ## ***YOU NEED TO INSTALL NPM PACKAGE BEFORE USING THIS REPO***
 ### **THESE PACKAGES YOU NEED TO INSTALL:**
-**1. DiscordJS**
-**2. Dotenv**
+[Discord JS](https://discord.js.org/)**1. DiscordJS**
+[Dotenv](https://www.npmjs.com/package/dotenv)**2. Dotenv**
 # ***GOOD LUCK WITH YOUR PLAN!***

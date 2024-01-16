@@ -1,0 +1,27 @@
+{
+  "name": "discord-bot-v14-minh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhgia2312/DISCORD-BOT-V14-MINH.git"
+  },
+  "keywords": [],
+  "author": "minhgia2312",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhgia2312/DISCORD-BOT-V14-MINH/issues"
+  },
+  "homepage": "https://github.com/minhgia2312/DISCORD-BOT-V14-MINH#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.36.2",
+    "discord.js": "^14.0.2",
+    "dotenv": "^16.0.1"
+  }
+}
